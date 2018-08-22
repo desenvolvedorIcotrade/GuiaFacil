@@ -1,4 +1,4 @@
-www.GuiaFacil.com.br
+
 Espaço Publisher
 <title> JavaScript - Olá, mundo</title>
     <metaname="description" content="Como criar um script em JavaScript no HTML">
