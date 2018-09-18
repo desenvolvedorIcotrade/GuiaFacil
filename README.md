@@ -27,9 +27,9 @@
 
     <script type='text/javascript'>
         var mytheme_urls = {
-            theme_base_url: 'http://www.clever-software.net/wp-content/themes/citrus/',
-            framework_base_url: 'http://www.clever-software.net/wp-content/themes/citrus/framework/',
-            ajaxurl: 'http://www.clever-software.net/wp-admin/admin-ajax.php',
+            theme_base_url: '
+            framework_base_url: ''
+            ajaxurl: '',
             url: '#',
             scroll: 'disable',
             stickynav: 'enable',
@@ -40,7 +40,7 @@
             header_styles: 'type7',
             isLandingPage: '',
             isRTL: '',
-            pluginURL: 'http://www.clever-software.net/wp-content/plugins/',
+            pluginURL: '',
             isResponsive: 'enable',
             layout_pattern: ''
         };
@@ -51,17 +51,7 @@
         var ct_info_flag = false;
         var ct_set_cookies_flag = true;
     </script>
-    <link rel="alternate" type="application/rss+xml" title="Clever Software &raquo; Kanał z wpisami" href="http://www.clever-software.net/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Clever Software &raquo; Kanał z komentarzami" href="http://www.clever-software.net/comments/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Clever Software &raquo; Home Kanał z komentarzami" href="http://www.clever-software.net/home/feed/" />
-    <link rel='stylesheet' id='dt-animation-css-css' href='http://www.clever-software.net/wp-content/plugins/designthemes-core-features/shortcodes/css/animations.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='dt-sc-css-css' href='http://www.clever-software.net/wp-content/plugins/designthemes-core-features/shortcodes/css/shortcodes.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='dt-animations-css' href='http://www.clever-software.net/wp-content/plugins/designthemes-core-features/page-builder/css/animations.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='layerslider-css' href='http://www.clever-software.net/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='ls-google-fonts-css' href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
-    <link rel='stylesheet' id='contact-form-7-css' href='http://www.clever-software.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='responsive_map_css-css' href='http://www.clever-software.net/wp-content/plugins/responsive-maps-plugin/includes/css/style.css?ver=2.13' type='text/css' media='all' />
-    <link rel='stylesheet' id='rs-plugin-settings-css' href='http://www.clever-software.net/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.1.24' type='text/css' media='all' />
+    <
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         .tp-caption a {
             color: #a6ff02;
@@ -76,40 +66,7 @@
             color: #ff0263
         }
     </style>
-    <link rel='stylesheet' id='reset-css' href='http://www.clever-software.net/wp-content/themes/citrus/css/reset.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='prettyphoto-css' href='http://www.clever-software.net/wp-content/themes/citrus/css/prettyPhoto.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='meanmenu-css' href='http://www.clever-software.net/wp-content/themes/citrus/css/meanmenu.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='citrus-default-css' href='http://www.clever-software.net/wp-content/themes/citrus/style.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='custom-font-awesome-css' href='http://www.clever-software.net/wp-content/themes/citrus/css/font-awesome.min.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='skin-css' href='http://www.clever-software.net/wp-content/themes/citrus/skins/red/style.css?ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='darkskin-css-css' href='http://www.clever-software.net?ver=4.1.24#' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-alegreya-css' href='//fonts.googleapis.com/css?family=Alegreya+Sans%3A400%2C800%2C700%2C100%2C500%2C500italic%2C300%2C800italic%2C900%2C900italic&#038;ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-sanspro-css' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C200%2C200italic%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&#038;ver=4.1.24' type='text/css' media='all'
-    />
-    <link rel='stylesheet' id='font-raleway-css' href='//fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C300%2C200%2C500%2C600%2C700%2C800%2C900&#038;ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-opensans-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C700%2C300italic&#038;ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-pacifico-css' href='//fonts.googleapis.com/css?family=Pacifico&#038;ver=4.1.24' type='text/css' media='all' />
-    <link rel='stylesheet' id='responsive-css' href='http://www.clever-software.net/wp-content/themes/citrus/responsive.css?ver=4.1.24' type='text/css' media='all' />
-    <!--[if IE]>
-                <style type="text/css" media="screen">
-                        .team .social-icons li {
-                            behavior: url(http://www.clever-software.net/wp-content/themes/citrus/PIE.php);
-                           }
-                 </style>
-                 <![endif]-->
-    <script type='text/javascript' src='http://www.clever-software.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.1.1'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.2'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.1.1'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.1.24'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.1.24'></script>
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/themes/citrus/framework/js/public/modernizr-2.6.2.min.js?ver=4.1.24'></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.clever-software.net/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.clever-software.net/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 4.1.24" />
-    <link rel='canonical' href='http://www.clever-software.net/' />
-    <link rel='shortlink' href='http://www.clever-software.net/' />
+    <
     <style type="text/css">
         .recentcomments a {
             display: inline !important;
@@ -125,7 +82,7 @@
         }
     </style>
 
-    <script type='text/javascript' src='http://www.clever-software.net/wp-content/plugins/wp-spamshield/js/jscripts.php'></script>
+    <script type='text/javascript' src=''></script>
 </head>
 
 <body class="home page page-id-57 page-template page-template-tpl-onepage page-template-tpl-onepage-php custom-background menu-over-slider">
@@ -180,14 +137,14 @@
                                     <!-- SLIDE  -->
                                     <li data-transition="" data-slotamount="2" data-masterspeed="300" data-saveperformance="on">
                                         <!-- MAIN IMAGE -->
-                                        <img src="http://www.clever-software.net/wp-content/plugins/revslider/images/dummy.png" alt="surface_slider" data-lazyload="http://www.clever-software.net/wp-content/uploads/2015/02/surface_slider.jpg" data-bgposition="center bottom" data-bgfit="cover"
+                                        <img src="" alt="surface_slider" data-lazyload="" data-bgposition="center bottom" data-bgfit="cover"
                                             data-bgrepeat="no-repeat">
                                         <!-- LAYERS -->
                                     </li>
                                     <!-- SLIDE  -->
                                     <li data-transition="" data-slotamount="7" data-masterspeed="300" data-saveperformance="on">
                                         <!-- MAIN IMAGE -->
-                                        <img src="http://www.clever-software.net/wp-content/plugins/revslider/images/dummy.png" alt="phone_slide" data-lazyload="http://www.clever-software.net/wp-content/uploads/2015/02/phone_slide.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                        <img src="" alt="phone_slide" data-lazyload="content/uploads/2015/02/phone_slide.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                         <!-- LAYERS -->
                                     </li>
                                 </ul>
