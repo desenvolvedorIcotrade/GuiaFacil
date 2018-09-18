@@ -19,7 +19,7 @@
    
 
     <link rel="profile" href="https://encontretudonet/GuiaFacil" />
-    <link rel="pingback" href="#" />
+    <link rel="pingback" href="https://encontretudonet/GuiaFacil" />
 
     <!--[if lt IE 9]>
                     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
