@@ -1,6 +1,3 @@
-#https://EncontreTudoNeT/GuiaFacil
-!DOCTYPE html>
-<html>
 
 
 
