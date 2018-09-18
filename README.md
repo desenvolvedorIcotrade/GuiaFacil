@@ -16,7 +16,7 @@
 <head>
     <meta charset="utf-8">
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1' />
-    <title></title>
+   
 
     <link rel="profile" href="https://encontretudonet/GuiaFacil" />
     <link rel="pingback" href="#" />
@@ -116,7 +116,7 @@
             padding: 0 !important;
             margin: 0 !important;
         }
-    </style>
+    <style>
     <style type="text/css">
         .recentcomments a {
             display: inline !important;
