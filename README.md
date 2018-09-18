@@ -8,7 +8,7 @@
 
 
 
-<!doctype html>
+
 
 <html lang="pt">
 
@@ -323,19 +323,7 @@
                             </script>
 
 
-                            <style type="text/css">
-                                #rev_slider_1_1_wrapper .tp-loader.spinner1 {
-                                    background-color: rgba(255, 255, 255, 0.308) !important;
-                                }
-                            </style>
-                        </div>
-                        <!-- END REVOLUTION SLIDER -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--main-content starts-->
-        <div id="main-content">
+                            
 
 
             <!-- **Portfolio Container** -->
